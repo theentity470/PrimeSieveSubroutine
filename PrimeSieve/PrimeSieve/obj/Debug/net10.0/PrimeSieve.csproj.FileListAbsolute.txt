@@ -1,0 +1,15 @@
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\bin\Debug\net10.0\PrimeSieve.exe
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\bin\Debug\net10.0\PrimeSieve.deps.json
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\bin\Debug\net10.0\PrimeSieve.runtimeconfig.json
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\bin\Debug\net10.0\PrimeSieve.dll
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\bin\Debug\net10.0\PrimeSieve.pdb
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\PrimeSieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\PrimeSieve.AssemblyInfoInputs.cache
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\PrimeSieve.AssemblyInfo.cs
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\PrimeSieve.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\PrimeSieve.dll
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\refint\PrimeSieve.dll
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\PrimeSieve.pdb
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\PrimeSieve.genruntimeconfig.cache
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\ref\PrimeSieve.dll
+C:\Users\siddh\source\repos\PrimeSieve\PrimeSieve\obj\Debug\net10.0\PrimeSieve.csproj.Up2Date
